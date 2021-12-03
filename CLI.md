@@ -234,3 +234,11 @@ git log # commit log
 
 
 
+git remote -h 
+(git remote 관련해서 도움을 요청 -h가 헬프 명령어 )
+
+git remote add a erer ( a가 키값 erere이 벨류값[딕셔너리])
+
+git remote remove origin( origin 삭제)
+
+git push origin master 
