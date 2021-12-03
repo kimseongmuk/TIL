@@ -51,3 +51,5 @@ e6d53c2 (origin/master) first commit
 #새로운 컴퓨터에서 기존 원격 저장소 복제하기
 ```sh 
 $ git clone <url>
+
+0원격 저장소 내용 받아오기
