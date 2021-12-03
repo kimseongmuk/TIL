@@ -46,3 +46,8 @@ wqpowpeoldklsw[ep]
 9607be9 (HEAD -> master) cli .md 생성 및 git 내용 추가
 e6d53c2 (origin/master) first commit
 ( origin 까지만 원격저장소에 올라갔다는 알림)
+
+
+#새로운 컴퓨터에서 기존 원격 저장소 복제하기
+```sh 
+$ git clone <url>
